@@ -1,8 +1,8 @@
-##<h1>Olá pessoal, como vão? me chamo Lucas Scarpelli 👋<h1>
+##<h1>Olá pessoal, como vão? me chamo Lucas Scarpelli 👋</h1>
 
 
-<p>- 🌱 I’m a IT student and i learn a bunch of languages and infraestructure web</p>
-<p>- ✍ I'm learning Typescript, Python and Angular</p>
+- 🌱 I’m a IT student and i learn a bunch of languages and infraestructure web</p>
+- ✍ I'm learning Typescript, Python and Angular
 --------------------------------------------------------------------------------
 <div>
   <h3>Stats from GitHub</h3>
