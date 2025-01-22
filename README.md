@@ -3,8 +3,10 @@
 
 - 🌱 I’m a IT student and i learn a bunch of languages and infraestructure web
 - ✍ I'm learning Typescript, Python and Angular
-
+--------------------------------------------------------------------------------
 <div>
+  <h3>Stats from GitHub</h3>
+  -------------------------------------------------------------------------------
   <a>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical"/>
