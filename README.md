@@ -8,7 +8,8 @@
   <h3>Stats from GitHub:</h3>
   <a>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=malaco776&show_icons=true&theme=radical"/>
-    <img height="180cm" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaco776&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malaco776&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div>
  </a>
 </div>
 <h1>Linguagens e sistemas que domino:</h1>
